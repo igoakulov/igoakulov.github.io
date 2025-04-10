@@ -33,8 +33,8 @@
 >
 >### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
 >* Launched 6 successful products (e-commerce, martech) to 200K+ MAU with <200K budget
->* Implemented online rebranding communication, prepared channels for launch in Finland
->* With 3 others, delivered a strategic multi-year partnership with a top airline and secure contingent venture capital as a result
+>* Implemented online rebranding communication, prepared channels for our massive launch in Finland (50% of all population knew us, 20% signed up in the first few days)
+>* With 3 others, delivered a strategic partnership with a top airline and secured contingent multi-million venture capital as a result
 
 ## 🛠️ Skills & Qualities
 * **Primary**: UX, business analysis, roadmaps, cross-functional, stakeholders
