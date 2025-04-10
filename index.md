@@ -2,14 +2,14 @@
 
 ## ⭐ Highlights
 
-| 🚀 Led SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped startup | 🏆 Hackathon win | 🚢 6 big products in one year |
+| 🚀 Led SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped my startup | 🏆 Won hackathon | 🚢 Shipped 6 big products in one year |
 
 | Product | Description |
 |:--------|:------------|
-| [AppXite](https://www.appxite.com/) | 2024, Enterprise SaaS platform for running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
-| [Picax](https://picax.com/) | 2017, Marketplace for selling photos on autopilot to subscribed creative professionals |
-| [AdShot](https://adshot.com/) | 2016, [Hackathon winner](https://x.com/DunBradstreetEu/status/790131994076254208), Facebook-level targeting for outdoor advertising using with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
-| [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) | 2016, Ex-PINS app with 130K MAU |
+| [AppXite](https://www.appxite.com/) | 2024, enterprise SaaS platform for running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
+| [Picax](https://picax.com/) | 2017, marketplace for selling photos on autopilot to subscribed creative professionals |
+| [AdShot](https://adshot.com/) | 2016, [hackathon winner](https://x.com/DunBradstreetEu/status/790131994076254208), Facebook-level targeting for outdoor advertising using with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
+| [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) | 2016, ex-PINS app with 130K MAU |
 | [AirBaltic Club store](https://spend.airbalticclub.com/) | 2015, online store for 2M members with goal setting and "miles + cash" payments |
 
 ## 💻 Timeline
@@ -32,7 +32,7 @@
 >* Developed "AdShot" with business model and pilot customer in 18 hours, pitched at Slush conference and to Bisnode execs
 >
 >### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
->* Launched 6 successful products (e-commerce, martech) to 200K+ MAU with <200K budget
+>* Shipped 6 successful products (e-commerce, martech) to 200K+ MAU with <200K budget, drove 130K MAU to the app
 >* Implemented online rebranding communication, prepared channels for our massive launch in Finland (50% of all population knew us, 20% signed up in the first few days)
 >* With 3 others, delivered a strategic partnership with a top airline and secured contingent multi-million venture capital as a result
 
