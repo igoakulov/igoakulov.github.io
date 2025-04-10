@@ -6,41 +6,41 @@ Human, playable character @ Riga, Latvia | Product, SaaS | Learning how to build
 
 ## Highlights
 
-**Studying** deep learning and LLMs | **Led** B2B SaaS to PMF and 3.5x ARR | **Bootstrapped** my own startup | **Won** a hackathon | **Launched** 4 marketplace platforms and 2 apps in a year
+| **Studying** deep learning and LLMs | **Led** B2B SaaS to PMF and 3.5x ARR | **Bootstrapped** my own startup | **Won** a hackathon | **Launched** 4 marketplace platforms and 2 apps in a year |
 
 ---
 
 ## Experience
 
 #### Feb 2025 - Present | Studying AI
-* Studying courses in math, deep learning/transformers/LLMs, and Python for ML to build smarter products
+| **Goals** | Study courses in math, deep learning/transformers/LLMs, and Python for ML to build smarter products. |
 
 #### Mar 2019 - Jul 2024 | Product Lead @ AppXite
-* **Goals** | Grow MRR | Achieve PMF with SaaS distributors, MSPs, Vendors | Build advanced CPQ, sales channel, and subscription lifecycle tools
-* **Role** | Co-own strategy with CEO | Lead analysis, design, and execution. Manage sprints, releases, stakeholders
-* **Outcomes** | Grew ARR 3.5x | Won large customers in new segments | Shipped 130+ new features and updates
+| **Goals** | Grow recurring revenue. Achieve PMF with SaaS distributors, MSPs, Vendors. Build advanced CPQ, sales channel, and subscription lifecycle tools. |
+| **Role** | Co-own strategy with CEO. Lead analysis, design, and execution. Manage sprints, releases, stakeholders. |
+| **Outcomes** | Grew ARR 3.5x, won large customers in new segments, shipped 130+ new features and updates. |
 
 #### Oct 2018 - Apr 2019 | Business Development @ LVBET
 
 #### Feb 2018 - May 2018 | Product Owner @ Sayat.me
 
 #### Sep 2016 - Dec 2017 | Co-Founder @ Picax
-* **Goals** | Make photography business accessible | New authentic content
-* **Role** | Led a distributed team in product, business and GTM
+| **Goals** | Make photography business accessible. Provide new authentic content. |
+| **Role** | Lead a distributed team in product, business and GTM. |
 
 #### Jan 2014 - Sep 2016 | Mobile & Web Marketing Manager @ PINS.co
-* **Goals** | Launch new countries | Improve digital presence
-* **Role** | Develop digital channels | execute GTM and run marketing initiatives for 400+ brands and 2M+ members
-* **Outcomes** | Launched 6 successful products: PINS mobile app (130K MAU), 3 web e-commerce platforms, in-store deals app with iBeacons | Helped secure deals with a anchor partners
+| **Goals** | Launch new countries. Improve digital presence. |
+| **Role** | Develop digital channels. Execute GTM and run marketing initiatives for 400+ brands and 2M+ members. |
+| **Outcomes** | Launched 6 successful products including PINS mobile app (130K MAU), 3 web e-commerce platforms, in-store deals app with iBeacons. Helped secure deals with anchor partners. |
 
 ---
 
 ## Skills & Qualities
-* **Primary** | UX, Business Analysis, Roadmaps | Cross-functional Leadership, Stakeholder Management
-* **Supporting** | Scrum, Agile | Business, Marketing | Python
-* **Industries** | SaaS, E-Commerce, Loyalty
-* **Qualities** | Truth-seeking, Autonomous, Risk-tolerant, Scrappy
-* **Languages** | EN=C2 | RU=C2 | LV=B1 | FR=A2
+| **Primary** | UX, Business Analysis, Roadmaps, Cross-functional Leadership, Stakeholder Management |
+| **Supporting** | Scrum, Agile, Business, Marketing, Python |
+| **Industries** | SaaS, E-Commerce, Loyalty |
+| **Qualities** | Truth-seeking, Autonomous, Risk-tolerant, Scrappy |
+| **Languages** | EN (C2), RU (C2), LV (B1), FR (A2) |
 
 ---
 
