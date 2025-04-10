@@ -16,31 +16,31 @@
 
 ## 💻 Timeline
 
->#### Now: AI Studies
+>### Now: AI Studies
 >* Specialization in [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 >* Specialization in [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 >* Shorter courses on [AI Python](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/), [Transformers](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) and [Attention](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/), [Diffusion](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/), [Pretraining](https://www.deeplearning.ai/short-courses/pretraining-llms/), [Finetuning](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) and [RLHF](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/), [Optimization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/) and other 
->---
->#### 2019 - 2024: Product Lead @ AppXite
+>
+>### 2019 - 2024: Product Lead @ AppXite
 >* Grew ARR 3.5x and developed PMF with new segments
 >* Shipped 130+ new features and updates for enterprise customers: CPQ, partner management, subscription lifecycle, marketplace, billing & invoicing
 >* Reported to CEO, developed priorities with leadership, led analysis and execution, ran sprints and releases of 3 teams
->---
->#### 2018: Product Owner @ Sayat.me, Business Development @ LVBET
->---
->#### 2016 - 2017: Co-Founder @ Picax
+>
+>### 2018: Product Owner @ Sayat.me, Business Development @ LVBET
+>
+>### 2016 - 2017: Co-Founder @ Picax
 >* Set out on a mission to make photography business accessible, provide new authentic content
 >* Led distributed team in product, business and marketing
->---
->#### 2016: Won "Smart Data Outhack 2016" hackathon by Arctic Startup & Bisnode in Helsinki
->---
->#### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
+>
+>### 2016: Won "Smart Data Outhack 2016" hackathon by Arctic Startup & Bisnode in Helsinki
+>
+>### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
 >* Launched 6 successful products (e-commerce, martech)
 >* Helped rebrand, launch in Finland, secure deals with anchor partners
->---
->#### 2009 - 2013: European Business Studies @ RISEBA University of Applied Sciences
->---
->#### 2007 - 2009: Math, ICT, Physics, Economics @ Cambridge Tutors College
+>
+>### 2009 - 2013: European Business Studies @ RISEBA University of Applied Sciences
+>
+>### 2007 - 2009: Math, ICT, Physics, Economics @ Cambridge Tutors College
 
 ## 🛠️ Skills & Qualities
 * **Primary**: UX, business analysis, roadmaps, cross-functional, stakeholders
