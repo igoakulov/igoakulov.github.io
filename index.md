@@ -1,4 +1,4 @@
-🌍 Riga, Latvia 📧 igo.akulov@gmail.com 🔗 [x.com/igoakulov](x.com/igoakulov) 🔗 [linkedin.com/in/igoakulov](linkedin.com/in/igoakulov)
+🌍 Riga, Latvia 📧 igo.akulov@gmail.com 🔗 [x.com/igoakulov](https://x.com/igoakulov) 🔗 [linkedin.com/in/igoakulov](https://www.linkedin.com/in/igoakulov/)
 
 ## ⭐ Highlights
 
@@ -7,7 +7,7 @@
 ## 💎 Examples of work
 
 | Product | Description |
-|---------|-------------|
+|:--------|:------------|
 | [AppXite Platform](https://www.appxite.com/) | B2B SaaS platform for companies running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
 | Picax | Web service for selling photos to creative professionals (fully automated, no accounts needed) |
 | AdShot | Hackathon-winning prototype for Facebook-level targeting in outdoor advertising |
