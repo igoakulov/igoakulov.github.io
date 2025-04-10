@@ -8,7 +8,7 @@
 |:--------|:------------|
 | [AppXite Platform](https://www.appxite.com/) (2024) | B2B SaaS platform for companies running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
 | Picax (2017) | Marketplace for selling photos to subscribed creative professionals with zero effort or app installs (Instagram automation) |
-| AdShot (2016) | [Hackathon-winning](https://x.com/DunBradstreetEu/status/790131994076254208) prototype using [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) to bring Facebook-level targeting to outdoor advertising |
+| AdShot (2016) | [Hackathon-winning](https://x.com/DunBradstreetEu/status/790131994076254208) prototype bringing Facebook-level targeting to outdoor advertising with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
 | [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) (2016) | Ex-PINS app with 130K MAU in 2016 |
 | [AirBaltic Club store](https://spend.airbalticclub.com/) (2015) | Online store for 2M members with goal setting and "miles + cash" payments |
 
@@ -28,16 +28,13 @@
 >* Innovated photo submission process with no app installs or involvement - sign in with Instagram once, let automation do the rest forever
 >
 >### 2016: "Smart Data Outhack 2016" hackathon win
->* Limited to 45 participants and 18 hours
->* Pitched at Slush conference and to Bisnode execs
+>* Limited to 45 participants, hosted by Arctic Startup and Bisnode in Helsinki
+>* Developed "AdShot" with business model and pilot customer in 18 hours, pitched at Slush conference and to Bisnode execs
 >
 >### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
 >* Launched 6 successful products (e-commerce, martech) to 200K+ MAU with <200K budget
->* Helped rebrand, launch in Finland, secure deals with anchor partners
->
->### 2009 - 2013: European Business Studies @ RISEBA University of Applied Sciences
->
->### 2007 - 2009: Math, ICT, Physics, Economics @ Cambridge Tutors College
+>* Implemented online rebranding communication, prepared channels for launch in Finland
+>* With 3 others, delivered a strategic multi-year partnership with a top airline and secure contingent venture capital as a result
 
 ## 🛠️ Skills & Qualities
 * **Primary**: UX, business analysis, roadmaps, cross-functional, stakeholders
