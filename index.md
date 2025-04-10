@@ -2,15 +2,15 @@
 
 ## ⭐ Highlights
 
-| 🚀 Led Enterprise SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped my own startup | 🏆 Won a hackathon | 🚢 Shipped 6 big products in one year |
+| 🚀 Led SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped startup | 🏆 Hackathon win | 🚢 6 big products in one year |
 
 | Product | Description |
 |:--------|:------------|
-| [AppXite Platform](https://www.appxite.com/) (2024) | B2B SaaS platform for companies running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
-| Picax (2017) | Marketplace for selling photos to subscribed creative professionals with zero effort or app installs (Instagram automation) |
-| AdShot (2016) | [Hackathon-winning](https://x.com/DunBradstreetEu/status/790131994076254208) prototype bringing Facebook-level targeting to outdoor advertising with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
-| [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) (2016) | Ex-PINS app with 130K MAU in 2016 |
-| [AirBaltic Club store](https://spend.airbalticclub.com/) (2015) | Online store for 2M members with goal setting and "miles + cash" payments |
+| [AppXite](https://www.appxite.com/) | 2024, Enterprise SaaS platform for running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
+| [Picax](https://picax.com/) | 2017, Marketplace for selling photos on autopilot to subscribed creative professionals |
+| [AdShot](https://adshot.com/) | 2016, [Hackathon winner](https://x.com/DunBradstreetEu/status/790131994076254208), Facebook-level targeting for outdoor advertising using with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
+| [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) | 2016, Ex-PINS app with 130K MAU |
+| [AirBaltic Club store](https://spend.airbalticclub.com/) | 2015, online store for 2M members with goal setting and "miles + cash" payments |
 
 ## 💻 Timeline
 
@@ -19,13 +19,13 @@
 >* More about LLMs on [deeplearning.ai](https://www.deeplearning.ai/)
 >
 >### 2019 - 2024: Product Lead @ AppXite
->* Grew ARR 3.5x in core product by developing product-market fit with upmarket cloud service vendors and distributors
->* Shipped 130+ new features and updates for enterprise customers: CPQ, partner management, subscription lifecycle, marketplace, billing & invoicing
->* Planned priorities and roadmap with CEO and business execs, interviewed customers, led analysis and execution, ran sprints and releases of 3 teams (~20 people)
+>* Grew ARR 3.5x in core product by developing product-market fit with enterprise cloud service vendors and distributors
+>* Shipped 130+ new features and updates: CPQ, partner management, subscription lifecycle, marketplace, billing & invoicing
+>* Owned roadmap, planned priorities with CEO & execs, led analysis & execution, ran sprints & releases of 3 teams (~20 people)
 >
 >### 2016 - 2017: Co-Founder @ Picax
 >* Led distributed team in product, business and marketing
->* Innovated photo submission process with no app installs or involvement - sign in with Instagram once, let automation do the rest forever
+>* Innovated photo submission process on autopilot, with no app installs - connect Instagram once and let go
 >
 >### 2016: "Smart Data Outhack 2016" hackathon win
 >* Limited to 45 participants, hosted by Arctic Startup and Bisnode in Helsinki
