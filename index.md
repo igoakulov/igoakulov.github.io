@@ -12,7 +12,7 @@
 | Picax | Marketplace for selling photos to creative professionals with zero effort or app installs (Instagram automation) |
 | AdShot | Hackathon-winning prototype for Facebook-level targeting in outdoor advertising |
 | [AirBaltic Club](https://apps.apple.com/lv/app/airbaltic/id1144087109) | Ex-PINS app with 130K MAU in 2016 |
-| [AirBaltic Club store](https://spend.airbalticclub.com/) | Online store with goal setting and "points + cash" payments |
+| [AirBaltic Club store](https://spend.airbalticclub.com/) | Online store with goal setting and "miles + cash" payments |
 
 ## 💻 Timeline
 
@@ -34,8 +34,8 @@
 >* Led distributed team in product, business and marketing
 >
 >### 2016: "Smart Data Outhack 2016" hackathon win
->* Limited to 45 participants and 18 hours, winner pitches at Slush conference and to Bisnode exec team.  
->* Won with "AdShot" - outdoor advertising meets Facebook-level targeting with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400)
+>* Limited to 45 participants and 18 hours, winner pitches at Slush stage and to Bisnode execs  
+>* Won with "AdShot" - outdoor advertising meets Facebook-level targeting with [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) from Bisnode
 >
 >### 2014 - 2016: Mobile & Web Marketing Manager @ PINS.co
 >* Launched 6 successful products (e-commerce, martech) to 200K+ MAU with <200K budget
