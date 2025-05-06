@@ -15,8 +15,8 @@
 ## 💻 Timeline
 
 >### Now: Studying AI to build smarter things
->* Specializations in [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) and [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
->* More about LLMs on [deeplearning.ai](https://www.deeplearning.ai/)
+>* Specializations in [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) and [Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) / [LLMs](https://www.deeplearning.ai/)
+>* My current [progress and certificates](https://www.coursera.org/user/e35f8fec85d44461b27a13c5ca7aadc8)
 >
 >### 2019 - 2024: Product Lead @ AppXite
 >* Grew ARR 3.5x in core product by developing product-market fit with enterprise cloud service vendors and distributors
