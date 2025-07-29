@@ -1,8 +1,8 @@
-🌍 Riga, Latvia 📧 igo.akulov@gmail.com 🔗 [linkedin.com/in/igoakulov](https://www.linkedin.com/in/igoakulov/)
+🌍 Riga, Latvia 📧 igo.akulov@gmail.com 🔗 [linkedin.com/in/igoakulov](https://www.linkedin.com/in/igoakulov/) 🔗 [github.com/igoakulov](https://github.com/igoakulov/)
 
 ## ⭐ Highlights
 
-| 🚀 Led SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped startup | 🏆 Won hackathon | 🚢 Shipped 6 successful products in a year |
+| 🚀 Led SaaS upmarket to 3.5x ARR | 🐣 Bootstrapped startup | 🚢 Shipped 6 successful products in a year | 🏆 Won hackathon |
 
 | Product | Description |
 |:--------|:------------|
@@ -14,9 +14,9 @@
 
 ## 💻 Timeline
 
->### Now: Studying AI to build smarter things
->* Specializations in [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) and [Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)  - done
->* RAG, RL, tool-calling etc. on [Deeplearning.ai](https://www.deeplearning.ai/)
+>### Now: Learning all-things-AI to build smarter things
+>* Specializations in [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) and [Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning), courses on [Deeplearning.ai](https://www.deeplearning.ai/)
+>* Pet projects...
 
 >### 2019 - 2024: Product Lead @ AppXite
 >* Grew ARR 3.5x in core product by developing product-market fit with enterprise cloud service vendors and distributors
