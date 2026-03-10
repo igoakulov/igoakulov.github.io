@@ -6,6 +6,8 @@
 
 | Product | Description |
 |:--------|:------------|
+| [Stemify](https://github.com/igoakulov/stemify) | 2026, desktop app for learning/teaching STEM visually with interactive scenes and AI (open-source) |
+| [Tokker](https://github.com/igoakulov/tokker) | 2025, fast local-first CLI for tokenizing text with all the best models in one place (open-source) |
 | [AppXite](https://www.appxite.com/) | 2024, enterprise SaaS platform for running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
 | Picax | 2017, marketplace for selling photos on autopilot to subscribed creative professionals |
 | AdShot | 2016, [hackathon winner](https://x.com/DunBradstreetEu/status/790131994076254208), Facebook-level targeting for outdoor advertising powered by [Finnish population data](https://news.cision.com/arcticstartup/r/previously-sealed-off-data-about-finland-released-by-bisnode-in-a-smart-data-outhack,c2078400) |
@@ -14,8 +16,8 @@
 
 ## 💻 Timeline
 
->### Now: Just Building and Learning...
->* Building things: [Stemify](https://github.com/igoakulov/stemify), [Tokker](https://github.com/igoakulov/tokker)
+>### Now: Building, learning, recalibrating
+>* Building things: [Stemify](https://github.com/igoakulov/stemify), [Tokker](https://github.com/igoakulov/tokker) etc.
 >* Completed [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science), [Deep Learning Spec](https://www.coursera.org/learn/neural-networks-deep-learning) and a bunch of [Deeplearning.ai](https://www.deeplearning.ai/) courses
 
 >### 2019 - 2024: Product Lead @ AppXite
