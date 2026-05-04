@@ -6,6 +6,7 @@
 
 | Product | Description |
 |:--------|:------------|
+| [Cobrain](https://github.com/igoakulov/cobrain) | 2026, CLI/skill for AI agents to gather, organize and visualize knowledge in local vault (open-source) |
 | [Stemify](https://github.com/igoakulov/stemify) | 2026, desktop app for learning/teaching STEM visually with interactive scenes and AI (open-source) |
 | [Tokker](https://github.com/igoakulov/tokker) | 2025, fast local-first CLI for tokenizing text with all the best models in one place (open-source) |
 | [AppXite](https://www.appxite.com/) | 2024, enterprise SaaS platform for running as-a-service business, shipped 130+ [new features and updates](https://support.appxite.com/hc/en-us/sections/360003529760-Product-Releases) |
@@ -17,7 +18,7 @@
 ## 💻 Timeline
 
 >### Now: Building, learning, recalibrating
->* Building things: [Stemify](https://github.com/igoakulov/stemify), [Tokker](https://github.com/igoakulov/tokker) etc.
+>* Building things: [Cobrain](https://github.com/igoakulov/cobrain), [Stemify](https://github.com/igoakulov/stemify), [Tokker](https://github.com/igoakulov/tokker)
 >* Completed [Math for ML and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science), [Deep Learning Spec](https://www.coursera.org/learn/neural-networks-deep-learning) and a bunch of [Deeplearning.ai](https://www.deeplearning.ai/) courses
 
 >### 2019 - 2024: Product Lead @ AppXite
